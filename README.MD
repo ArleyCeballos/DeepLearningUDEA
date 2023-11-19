@@ -5,7 +5,7 @@ Este proyecto utiliza modelos de redes neuronales convolucionales (CNN) para la 
 ## Contenido del Repositorio
 
 - `Notebook_proyecto_Deep_learning.ipynb`: Es el notebook que contiene todo el codigo del proyecto en Colab.
-- `Entrega 1 deep learning.pdf`: Es el informe del entregable número 1.
+- `ENTREGA1.pdf`: Es el informe del entregable número 1.
 - `INFORME_PROYECTO.pdf`: Es el informe del final del proyecto.
 
 
